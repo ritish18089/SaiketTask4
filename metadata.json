@@ -1,0 +1,6 @@
+{
+  "name": "Simple Intent Demo",
+  "description": "A professional Android application demonstrating Explicit Intents by switching between two Activities and transferring data using Java and XML layouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
