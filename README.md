@@ -82,89 +82,116 @@ This architecture represents:
 
 ## 🧪 Testing Strategy
 ### Functional Testing
-- Timer Start, Stop, Reset
-- Stopwatch Operations
-- Activity Creation
-- Activity Editing
-- Activity Deletion
-- History Storage
-- Statistics Calculation
-- Notifications
-- Settings
+- Splash Screen Navigation
+- Text Transfer Functionality
+- Video Selection & Transfer
+- Video Preview Playback
+- Image Selection & Transfer
+- Image Preview Display
+- File Selection & Transfer
+- File Preview & File Information
+- Explicit Intent Data Passing
+- User Input Validation
+- Theme Switching (Light/Dark)
+- Settings Module
+- About App
+- Help Center
+- Send Feedback via Email
+- Privacy Policy
+- Terms & Conditions
 
 ### UI Testing
-- Material Design Consistency
+- Material Design 3 Consistency
 - Responsive Layout
 - Button Alignment
-- Navigation Flow
-- Status Bar Handling
-- Bottom Navigation
-- Performance Testing
-- Timer Accuracy
-- Memory Usage
-- Notification Performance
-- Screen Rotation Handling
+- Text Field Validation
+- Icon Visibility
+- Screen Navigation
+- Toolbar Consistency
+- Theme UI Verification
+- Preview Screen Layout
+- Bottom Navigation Functionality
 
 ### Compatibility Testing
-- Android 10+
-- Android 11
-- Android 12
-- Android 13
-- Android 14
-- Android 15
+- Android API Level 24+
+- Different Screen Sizes
+- Portrait Orientation
+- Landscape Orientation
+- Various Android Versions
+- Different Device Manufacturers
 
-### User Acceptance Testing
-- Activity Planning
-- Focus Sessions
-- Timer Notifications
-- Stopwatch Accuracy
-- History Tracking
+### Performance Testing
+- Application Launch Time
+- Media Loading Performance
+- Image Rendering Speed
+- Video Playback Performance
+- File Loading Performance
+- Activity Transition Speed
+- Memory Usage
+- Smooth UI Responsiveness
+  
+### Security Testing
+- Secure File URI Handling
+- Intent Data Validation
+- Invalid Input Handling
+- Unsupported File Type Handling
+- Permission Request Validation
+- Application Stability
+
+### Integration Testing
+- Activity Result API Integration
+- Explicit Intent Communication
+- SharedPreferences Integration
+- Device Storage Access
+- Gallery Integration
+- File Manager Integration
+- Email Intent Integration
+
+### User Acceptance Testing (UAT)
+- Easy Navigation
+- User-Friendly Interface
+- Correct Data Transfer
+- Accurate Media Preview
+- Theme Preference Persistence
+- Overall User Experience
+- Stable Application Behavior
 
 ## 📸 Screenshots
-### 🚀 Splash Screen
+### 📱 Splash Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/1.jpeg"  height="500px"></p>
 
-### 🏠 Home Screen
+### 🎥 Video Transfer Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/2.jpeg"  height="500px"></p>
 
-### ⏳ Countdown Timer Running
+### ▶️ Video Preview Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/3.jpeg"  height="500px"></p>
 
-### ⏱️ Stopwatch Screen
+### 🖼️ Image Transfer Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/4.jpeg"  height="500px"></p>
 
-### 📅 Daily Planner
+### 🖼️ Image Preview Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/5.jpeg"  height="500px"></p>
 
-### ➕ Add Activity Dialog
+### 📄 File Transfer Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/6.jpeg"  height="500px"></p>
 
-### 📜 History Screen
+### 📄 File Preview Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/7.jpeg"  height="500px"></p>
-
-### 📊 Statistics Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/8.jpeg"  height="500px"></p>
 
 ### ⚙️ Settings Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/9.jpeg"  height="500px"></p>
 
-### ℹ️ About App
+### ℹ️ About App Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/10.jpeg"  height="500px"></p>
 
-### ❓ Help Center
+### ❓ Help Center Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/11.jpeg"  height="500px"></p>
 
-### 🔒 Privacy Policy
+### 🔒 Privacy Policy Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/12.jpeg"  height="500px"></p>
 
-### 📄 Terms & Conditions
+### 📄 Terms & Conditions Screen
 <p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/13.jpeg"  height="500px"></p>
-
-### 🔔 Notification (Running Timer)
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/14.jpeg"  height="500px"></p>
-
-### 🎉 Timer Completion Notification
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/15.jpeg"  height="500px"></p>
 
 ## ⚙ Installationw
 ### Prerequisites
