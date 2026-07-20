@@ -1,4 +1,4 @@
-# Intent Transfer Demo - ⏳ Smart Productivity Timer
+# Intent Transfer Demo - 💫  Smart Intent Transfer
 A brief description of what this project does and who it's for.
 
 ## 🌟 Overview
