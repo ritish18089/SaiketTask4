@@ -199,30 +199,35 @@ This architecture represents:
 - JDK 17 or above
 - Android SDK 35
 - Gradle 8+
-- Android Device or Emulator (Android 10+)
+- Android Device or Emulator (Android 7.0+)
 
 ### Steps
-- Clone the repository: git clone https://github.com/ritish18089/SaiketTask5.git
+- Clone the repository: git clone https://github.com/ritish18089/IntentTransferDemo.git
 - Open the project in Android Studio.
 - Sync Gradle dependencies.
 - Build the project: Build > Make Project
-- Run the application on an emulator or physical Android device.
+- Connect an Android device or start an Android Emulator.
+- Click **Run ▶** to install and launch the application.
 
 ### Minimum Requirements
-- Android Version: Android 10 (API 29) or above
+- Android Version: Android 7.0 (API 24) or above
 - RAM: 2 GB minimum
 - Storage: 50 MB free space
--Internet: Not required (except for feedback email functionality)
+- Internet: Not required (except for Send Feedback via Email)
+- Permissions:
+  - Read Media Images
+  - Read Media Video
+  - Read External Storage (for older Android versions)
 
 ## 🎯 Future Enhancements
-- AI-based Productivity Insights and Smart Activity Recommendations
-- Cloud Backup and Cross-Device Synchronization
-- Google Calendar and Microsoft Outlook Integration
-- Shared Timers and Team Collaboration Features
-- Advanced Analytics with Weekly and Monthly Productivity Reports
-- Voice Commands and Voice-Controlled Timer Management
+- Implement Bluetooth and Wi-Fi Direct for direct device-to-device data transfer.
+- Add cloud integration (Firebase or Google Drive) for secure media and file sharing.
+- Introduce user authentication to provide secure and personalized access.
+- Support QR code-based device pairing for faster and easier file transfers.
+- Enable transfer history with search, filtering, and recently shared items.
+- Add multi-language support to improve accessibility for users across different regions.
 
 ## 📱Download APK
-Click below to download the latest version of FocusFlow
-[APK File](https://github.com/ritish18089/SaiketTask5/releases/download/v1.0.0/FocusFlow.apk)
+Click below to download the latest version of Intent Transfer Demo
+[APK File](https://github.com/ritish18089/SaiketTask4/releases/download/v1.0.0/Intent.apk)
 
