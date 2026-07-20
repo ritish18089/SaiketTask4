@@ -158,40 +158,40 @@ This architecture represents:
 
 ## 📸 Screenshots
 ### 📱 Splash Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/1.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/1.jpg"  height="500px"></p>
 
 ### 🎥 Video Transfer Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/2.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/2.jpg"  height="500px"></p>
 
 ### ▶️ Video Preview Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/3.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/3.jpg"  height="500px"></p>
 
 ### 🖼️ Image Transfer Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/4.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/4.jpg"  height="500px"></p>
 
 ### 🖼️ Image Preview Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/5.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/5.jpg"  height="500px"></p>
 
 ### 📄 File Transfer Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/6.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/6.jpg"  height="500px"></p>
 
 ### 📄 File Preview Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/7.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/7.jpg"  height="500px"></p>
 
 ### ⚙️ Settings Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/9.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/8.jpg"  height="500px"></p>
 
 ### ℹ️ About App Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/10.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/9.jpg"  height="500px"></p>
 
 ### ❓ Help Center Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/11.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/10.jpg"  height="500px"></p>
 
 ### 🔒 Privacy Policy Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/12.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/11.jpg"  height="500px"></p>
 
 ### 📄 Terms & Conditions Screen
-<p align="center"><img src="https://github.com/ritish18089/SaiketTask5/blob/main/13.jpeg"  height="500px"></p>
+<p align="center"><img src="https://github.com/ritish18089/SaiketTask4/blob/main/12.jpg"  height="500px"></p>
 
 ## ⚙ Installationw
 ### Prerequisites
