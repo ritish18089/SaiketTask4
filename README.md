@@ -58,39 +58,27 @@ Intent Transfer Demo is a modern Android application developed using Java and An
 
 ## 🛠 Technology Stack
 - **Programming Language:** Java
-- **Development Environment (IDE):** Android Studio
-- **User Interface:** XML with Material Design 3 Components
-- **Application Architecture:** MVVM-inspired Architecture
-- **Local Data Storage:** SharedPreferences
-- **Timer Implementation:** CountDownTimer API
-- **Stopwatch Implementation:** Handler and SystemClock
-- **Navigation:** Bottom Navigation View
-- **List Management:** RecyclerView
-- **Background Processing:** Foreground Service
-- **Notifications:** NotificationManager & Notification Channels
-- **Layouts:** ConstraintLayout and LinearLayout
-- **Icons:** Material Icons
-- **Build System:** Gradle
-- **Version Control:** Git
-- **Repository Hosting:** GitHub
-- **Supported Android Version:** Android 10 (API 29) and above
+- **IDE:** Android Studio
+- **UI Design:** XML Layouts
+- **Design System:** Material Design 3
+- **Framework:** Android SDK
+- **Navigation:** Explicit Intents
+- **Media Selection:** Activity Result API
+- **Data Storage:** SharedPreferences
+- **Minimum SDK:** API 24 (Android 7.0)
+- **Target SDK:** Latest Android SDK
 
 ## 📂 Architecture
-The architecture of FocusFlow follows a modular design, where each module is responsible for a specific functionality. This approach improves maintainability, scalability, and code organization.
-- **Splash Screen:** The Splash Screen is the entry point of the application. It displays the app logo and name for a few seconds while initializing the application before navigating to the Home Screen.
-- **Home Screen:** The Home Screen serves as the central dashboard of the application. From here, users can access the Countdown Timer, Stopwatch, Daily Planner, and Statistics modules. It acts as the main navigation hub and displays the currently selected focus activity.
-- **Timer Module:** The Timer Module provides a countdown timer for focus sessions. Users can set custom durations, start, stop, and reset the timer. A circular progress indicator visually represents the remaining time, and the timer updates every second until completion.
-- **Stopwatch Module:** The Stopwatch Module is designed to measure elapsed time. It supports start, stop, reset, and lap recording, making it useful for tracking activities that do not require a predefined duration.
-- **Planner Module:** The Planner Module allows users to create, edit, delete, and manage daily activities. Users can assign custom durations to each activity and start a focus session, which loads the selected activity into the Home Screen timer.
-- **Statistics Module:** The Statistics Module provides productivity insights by displaying total activities, completed activities, pending activities, daily focus time, and overall productivity summaries. This helps users monitor and improve their daily performance.
-- **Local Data Storage (SharedPreferences):** The application uses SharedPreferences as local storage to save user preferences and application data, such as planner activities, timer state, history, statistics, and settings. This ensures that important information is retained even after the app is closed and reopened.
-- **History Screen:** The History Screen stores records of completed and stopped activities. Users can search previous sessions, view activity details, and clear history whenever needed.
-- **Settings Screen:** The Settings Screen enables users to customize the application by managing dark mode, notifications, alert sounds, vibration, and accessing the About App, Help Center, Privacy Policy, and Terms & Conditions pages.
-- **Notification System:** The Notification System manages foreground notifications during active focus sessions and alerts users when a timer is completed. It also supports notification sounds and vibration based on user preferences, ensuring users remain informed even when the app is running in the background.
-<img src="https://github.com/ritish18089/SaiketTask5/blob/main/focusa.png"  height="1000px" width="1000px" >
+This architecture represents:
+- **User Interface Layer** – All Activities and screens displayed to the user.
+- **Application Layer** – Business logic including Explicit Intents, navigation, validation, and theme management.
+- **Android Services Layer** – Built-in Android components such as the Activity Result API, Content Resolver, VideoView, ImageView, and File Provider.
+- **Local Storage Layer** – SharedPreferences used to save the selected theme and other app preferences.
+- **Device Storage Layer** – External storage where images, videos, and documents are selected from.
+<img src="https://github.com/ritish18089/SaiketTask4/blob/main/itd.png"  height="1000px" width="1000px" >
 
 ## 🎯  Application Work Flow
-<img src="https://github.com/ritish18089/SaiketTask5/blob/main/erftg.png" height="1000px" width="1000px" >
+<img src="https://github.com/ritish18089/SaiketTask4/blob/main/idts.png" height="1000px" width="1000px" >
 
 ## 🧪 Testing Strategy
 ### Functional Testing
